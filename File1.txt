@@ -6,4 +6,5 @@ Demo for undo committed changes.
 Demo for undo committed changes line 2.
 function Bug123(){
 	//do something here.
+	//do something more to fix bug456
 }
