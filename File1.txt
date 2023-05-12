@@ -9,3 +9,5 @@ function Bug123(){
 	//do something more to fix bug456
 }
 Line added to fix CR2!
+File edited to verify Stash. Code is not complete.
+Work Completed.
