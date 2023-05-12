@@ -1,7 +1,7 @@
 Welcome - to GIT Session!
 Hello - World!
 Session - timings are 10:30 AM-1:30 PM.
-Today - is Day2 of the Session!
+Today - is Day2 of the Session!!!
 Demo - for undo committed changes.
 Demo - for undo committed changes line 2.
 function Bug123(){
@@ -10,5 +10,6 @@ function Bug123(){
 }
 Line added to fix CR2!
 File edited to verify Stash. Code is not complete.
-Work Completed.....
+Work Completed.!!!
 Working locally on main branch.
+Worked on it Remotely by Virat.
